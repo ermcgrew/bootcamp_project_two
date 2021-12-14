@@ -9,5 +9,6 @@ Data sources: SQLite database of scraped Pitchfork album reviews from https://ww
 
 In this repo: 
   * Resources folder: sqlite database with Pitchfork reviews
+  * ETL rroject final report: written summary of work and instructions for database use
   * pitchfork_spotify_ETL.ipynb: jupyter notebook with code for ETL
-  * summary of work and instructions for database use
+  * table_schema.sql: create table code for postgres
